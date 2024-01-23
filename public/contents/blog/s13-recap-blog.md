@@ -4,7 +4,7 @@ published: 2024-01-23T10:18:46.832Z
 language: en-US
 pathname: s13-recap
 category: League of Legends
-filename: s13-recap
+filename: s13-recap-blog
 ---
 The last time I wrote a recap for my League of Legends season was 3 years ago. The reason is simple: I haven't been playing much.
 
